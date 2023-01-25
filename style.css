@@ -45,7 +45,22 @@ nav .logo img{
     font-size: 1rem;
 }
 
+/* Menu Bar lines */
+
+/* .line{
+    width: 1.5rem;
+    margin: 0.5rem 2rem;
+    border: 1px solid red;
+} */
+
+/* .menubar{
+    display: none;
+} */
+
+/*Menu Bar lines end*/
+
 /*Style for Navigation bar ends*/
+
 
 /* Style for Image Carousel Start*/
 .carousel {
@@ -164,4 +179,15 @@ nav .logo img{
     .carousel {
         height: 40vh;
     }
+
+    .line{
+        width: 1.5rem;
+        margin: 0.5rem 2rem;
+        border: 1px solid red;
+    }
+
+    /* .menubar{
+        display: block;
+        cursor: pointer;
+    } */
 }

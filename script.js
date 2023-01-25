@@ -18,3 +18,4 @@ buttons.forEach(button => {
 })
 
 //Script for image carousel ends
+
